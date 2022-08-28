@@ -1,4 +1,4 @@
-# Praktikum1-PBO
+# Praktikum-PBO
 
 Nama  : Wisnu Yudhosantoso |
 NRP   : 5221600063 |
