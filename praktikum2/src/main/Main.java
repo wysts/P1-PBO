@@ -6,8 +6,8 @@ import bangundatar.PersegiPanjang;
 
 public class Main {
 	public static void main(String[] args) {
-		Lingkaran l = new Lingkaran(15);
-		System.out.println("1. " + l.getClass().getSimpleName());
+	    Lingkaran l = new Lingkaran(15);
+	    System.out.println("1. " + l.getClass().getSimpleName());
 	    l.hitungLuas();
 	    l.hitungKeliling();
 	    l.printInfo();
